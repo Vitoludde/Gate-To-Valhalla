@@ -28,5 +28,4 @@ If applicable, add screenshots to help explain your problem.
  - Is it a server: [Yes or no]
  - Modpack Version: [e.g. v0.1.0]
 
-**Additional context**
-Add any other context about the problem here.
+**Please append any crash logs!**
