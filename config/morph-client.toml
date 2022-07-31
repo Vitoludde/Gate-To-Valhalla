@@ -6,7 +6,7 @@
 	radialScale = 0.75
 	#Plays the "acquisition" animation. 0 = Disable, 1 = Morph only, 2 = Biomass only, 3 = Biomass and Morph
 	#Range: 0 ~ 3
-	acquisitionPlayAnimation = 3
+	acquisitionPlayAnimation = 1
 	#Do we render the GUI in Minecraft Style (as opposed to Boxes & Stuff style)? 1 = Vanilla Style, 2 = Texture Pack Style
 	#Range: 0 ~ 2
 	guiMinecraftStyle = 2
